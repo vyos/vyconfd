@@ -1,3 +1,3 @@
 #!/bin/sh
 
-PYTHONPATH=libraries nosetests -w tests/unit/
+PYTHONPATH=libraries:tests/unit nosetests -w tests/unit/
