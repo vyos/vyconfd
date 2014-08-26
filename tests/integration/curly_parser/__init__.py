@@ -1,1 +1,1 @@
-from .curly_parser_test import TestCurlyParser
+from .test_curly_parser import TestCurlyParser
