@@ -1,0 +1,9 @@
+include AUTHORS
+include README.rst
+include ChangeLog
+include LICENSE
+recursive-include vyconf/locale *
+
+exclude .gitignore
+
+global-exclude *.pyc
